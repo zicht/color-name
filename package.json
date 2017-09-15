@@ -1,0 +1,16 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.7.0",
+    "chrome-remote-interface": "^0.24.5"
+  }
+}
