@@ -1,13 +1,16 @@
 {
-  "name": "headless",
+  "name": "color-name",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get the color name for a hex value",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Joppe Aarts",
+    "email": "joppe@zicht.nl"
+  },
   "license": "MIT",
   "dependencies": {
     "chrome-launcher": "^0.7.0",
