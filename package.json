@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "color_name": "bin/color-name"
+  },
   "keywords": [],
   "author": {
     "name": "Joppe Aarts",
