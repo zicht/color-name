@@ -1,0 +1,14 @@
+#!/usr/local/bin/node
+
+/*global require*/
+
+/**
+ * @author Joppe Aarts <joppe@zicht.nl>
+ * @copyright Zicht Online <http://zicht.nl>
+ */
+
+var path = require('path'),
+    fs = require('fs'),
+    lib = path.join(path.dirname(fs.realpathSync(__filename)), '../');
+
+require(lib + 'index.js');
