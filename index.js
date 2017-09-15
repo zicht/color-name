@@ -69,7 +69,7 @@ if (COLOR.length !== 6) {
         const nameResult = await Runtime.evaluate({
             expression: getName
         });
-        const name = nameResult.result.value.toLowerCase().replace(/\s/, '-');
+        const name = nameResult.result.value.toLowerCase().replace(/\s/g, '-');
 
         const hueResult = await Runtime.evaluate({
             expression: getHue
