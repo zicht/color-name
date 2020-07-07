@@ -1,6 +1,6 @@
 MIT License
 
-(c) Copyright 2013 Zicht online <http://zicht.nl>
+(c) Copyright 2017 Zicht online <http://zicht.nl>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
