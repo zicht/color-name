@@ -10,6 +10,8 @@ Uses the website [Color name & hue](http://www.color-blindness.com/color-name-hu
 # Installation
 ```bash
 git clone git@github.com:zicht/color-name.git
+cd color-name
+npm install
 ```
 
 # Usage
