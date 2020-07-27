@@ -41,4 +41,4 @@ zcolor 461154
 ```
 
 # Maintainers
-* Virginia Meijer ([@VMeijer-Zicht](https://github.com/VMeijer-Zicht))
+* Virginia Meijer <virginia@zicht.nl>
